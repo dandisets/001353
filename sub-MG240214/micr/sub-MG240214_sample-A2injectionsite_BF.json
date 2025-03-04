@@ -1,0 +1,15 @@
+{
+  "Manufacturer": "Custom",
+  "ManufacturersModelName": "",
+  "InstituteionName": "UNC",
+  "PixelSize": 3.21,
+  "PixelSizeUnits": "um",
+  "Immersion": "none",
+  "NumericalAperture": "",
+  "Magnification": "",
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "in vivo",
+  "SampleStaining": [
+  ],
+  "SliceThickness": ""
+}

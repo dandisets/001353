@@ -1,0 +1,19 @@
+{
+  "Manufacturer": "Zeiss",
+  "ManufacturersModelName": "Axio Observer 7",
+  "InstituteionName": "UNC",
+  "PixelSize": 0.668879462104586,
+  "PixelSizeUnits": "um",
+  "Immersion": "none",
+  "NumericalAperture": 0.45,
+  "Magnification": 10,
+  "BodyPart": "BRAIN",
+  "SampleEnvironment": "ex vivo",
+  "SampleStaining": [
+    "Alexa647",
+    "Alexa594",
+    "Alexa488",
+    "DAPI"
+  ],
+  "SliceThickness": 45
+}
