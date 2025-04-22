@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
@@ -10,8 +11,9 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Rabies disynaptic tracing from L6 of auditory cortex (2025). (Version draft)
-  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001353/draft
+citation: 'Cortical Circuits for the integration of short-latency auditory pathways:
+  Rabies disynaptic tracing from L6 of auditory cortex (2025). (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/001353/draft'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -22,15 +24,19 @@ dateCreated: '2025-03-04T21:16:40.883931+00:00'
 description: 'Disynaptic tracing (TRIO method) of input neurons projecting to A1 L6-
   or A2 L6-innervating MGN neurons.  The experiments correspond to the data reported
   in manuscript PMID: 39829930.'
+ethicsApproval: []
 id: DANDI:001353/draft
 identifier: DANDI:001353
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001353/versions/draft/assets/
-name: Rabies disynaptic tracing from L6 of auditory cortex
+name: 'Cortical Circuits for the integration of short-latency auditory pathways: Rabies
+  disynaptic tracing from L6 of auditory cortex'
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
 url: https://dandiarchive.org/dandiset/001353/draft
 version: draft
+wasGeneratedBy: []
