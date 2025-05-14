@@ -20,6 +20,15 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- affiliation:
+  - name: University of North Carolina at Chapel Hill
+    schemaKey: Affiliation
+  email: kato@email.unc.edu
+  identifier: 0000-0002-5748-3221
+  name: Kato, Hiroyuki
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2025-03-04T21:16:40.883931+00:00'
 description: 'Disynaptic tracing (TRIO method) of input neurons projecting to A1 L6-
   or A2 L6-innervating MGN neurons.  The experiments correspond to the data reported
