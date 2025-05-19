@@ -40,6 +40,13 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: RF1NS128873
+  name: National Institute of Neurological Disorders and Stroke
+  roleName: []
+  schemaKey: Organization
+- awardNumber: R01DC017516
+  name: National Institute on Deafness and Other Communication Disorders
+  schemaKey: Organization
 dateCreated: '2025-03-04T21:16:40.883931+00:00'
 description: 'Disynaptic tracing (TRIO method) of input neurons projecting to A1 L6-
   or A2 L6-innervating MGN neurons in mice.  The experiments correspond to the data
