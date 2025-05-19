@@ -42,10 +42,13 @@ contributor:
   schemaKey: Person
 - awardNumber: RF1NS128873
   name: National Institute of Neurological Disorders and Stroke
-  roleName: []
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
 - awardNumber: R01DC017516
   name: National Institute on Deafness and Other Communication Disorders
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-03-04T21:16:40.883931+00:00'
 description: 'Disynaptic tracing (TRIO method) of input neurons projecting to A1 L6-
