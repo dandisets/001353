@@ -23,7 +23,7 @@ assetsSummary:
   variableMeasured: []
 citation: 'Kato, Hiroyuki (2025) Cortical Circuits for the integration of short-latency
   auditory pathways: Rabies disynaptic tracing from L6 of auditory cortex (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001353/draft'
+  0.250521.2344) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001353/0.250521.2344'
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
   name: National Institutes of Health (NIH)
@@ -55,13 +55,14 @@ datePublished: '2025-05-21T23:44:44.112901+00:00'
 description: 'Disynaptic tracing (TRIO method) of input neurons projecting to A1 L6-
   or A2 L6-innervating MGN neurons in mice.  The experiments correspond to the data
   reported in manuscript PMID: 39829930.'
+doi: 10.48324/dandi.001353/0.250521.2344
 ethicsApproval: []
-id: DANDI:001353/draft
+id: DANDI:001353/0.250521.2344
 identifier: DANDI:001353
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001353/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001353/0.250521.2344/assets.yaml
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: Rabies
   disynaptic tracing from L6 of auditory cortex'
 publishedBy:
@@ -80,6 +81,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001353/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001353/0.250521.2344
+version: 0.250521.2344
 wasGeneratedBy: []
